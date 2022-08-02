@@ -1,7 +1,6 @@
 ## **Oi! Eu sou Bruno Pantoja**
 
 - 📚 Estudando para Desenvolvedor Full Stack Java
-- 🤝 Procuro colaborar para o desenvolvimento e trabalho em equipe
 
 <div>
 <a href="https://www.linkedin.com/in/bruno-pantoja-0ab362246/">
