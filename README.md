@@ -1,5 +1,5 @@
 ## **Oi! Eu sou Bruno Pantoja**
-- 📚 Estudando para Desenvolvedor Full Stack Java
+
 </div>
 <div style="display: inline_block"><br></div>
   <a href="https://github.com/brnpantoja">
